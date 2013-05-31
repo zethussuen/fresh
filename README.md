@@ -10,7 +10,7 @@ New machine setup walkthrough:
 4. Install homebrew for mac (http://mxcl.github.io/homebrew/)  
 5. Install RVM ($ \curl -L https://get.rvm.io | bash -s stable --rails)  
 6. Install Ruby  
-7. brew install mysql
+7. brew install mysql  
 8. Set up .bash_profile  
 
 
